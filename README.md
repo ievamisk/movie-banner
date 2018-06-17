@@ -13,3 +13,6 @@
 
 ## Support
 Does not properly support IE8 & IE9
+
+### P.S
+I have used PT Sans font instead of Myriad Pro, because I could not find it for free :)
