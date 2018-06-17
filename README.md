@@ -10,8 +10,8 @@
 * Lazy load
 
 ## Launching
-* run `npm install`
-* run `gulp serve`
+* Run `npm install`
+* Run `gulp serve`
 
 ## Support
 Does not properly support IE8 & IE9
