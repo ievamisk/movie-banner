@@ -1,6 +1,4 @@
 # Movie banner
-
-## About
 * Fully responsive
 * Created using HTML, CSS(SASS), JavaScript
 
